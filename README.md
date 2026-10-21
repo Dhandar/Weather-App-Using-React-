@@ -25,20 +25,6 @@ A modern, responsive weather application built with **React.js** and **Material 
 - **Build Tool:** Vite
 - **Version Control:** Git and GitHub
 
-## 📸 Screenshots
-
-Add screenshots of your application here after running it locally.
-
-```md
-![SkyCast Weather App](./screenshots/weather-app.png)
-```
-
-To add a screenshot:
-
-1. Create a `screenshots` folder in your project.
-2. Capture your running application.
-3. Save the image as `weather-app.png` inside that folder.
-4. Commit and push the screenshot to GitHub.
 
 ## 🚀 Getting Started
 
@@ -169,11 +155,5 @@ While building this project, I practiced:
 
 Aspiring Software Developer | MERN Stack Developer
 
-- GitHub: [Visit my GitHub profile](https://github.com/)
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
-
-*Replace the profile links above with your actual GitHub and LinkedIn URLs.*
-
-## 📄 License
-
-This project is open source and available for learning and educational purposes. You may add an MIT License if you want to allow reuse under its terms.
+- GitHub: [Visit my GitHub profile](https://github.com/Dhandar)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/sush2000/)
